@@ -1,0 +1,16 @@
+/data/*
+/data/detected_faces
+*.pyc
+*__pycache__
+*.png
+*.jpg
+*.pkl
+*.json
+*.txt
+*.zip
+*.heic
+*.csv
+*.pdf
+*.jpeg
+*.out
+*.onnx
